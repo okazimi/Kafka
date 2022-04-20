@@ -1,0 +1,23 @@
+{
+  "type": "record",
+  "name": "myrecord",
+  "fields": [
+    {
+      "name": "first_name",
+      "type": ["string","null"]
+    },
+    {
+        "name": "last_name",
+        "type": ["string","null"]
+    },
+    {
+       "name": "age5",
+       "type": ["string","null"]
+    },
+    {
+        "name": "height",
+        "type": ["string","null"],
+        "default": "No Height Provided"
+    }
+  ]
+}
