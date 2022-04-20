@@ -1,0 +1,7 @@
+avro\producer\Producer.class
+com\example\AvroRecord.class
+avro\properties\ProducerAndConsumerProperties.class
+avro\topic\TopicCreator.class
+avro\consumer\Consumer.class
+com\example\AvroRecord$1.class
+com\example\AvroRecord$Builder.class
